@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm currently working as a bioinformatician in Human Genomics Lab, Korea University, Seoul, South Korea 🇰🇷
+
+I'm interested in Somatic Copy Number Variants in Cancer Biology 🫁🫀🧠
+
+I enjoy all kinds of sports, such as ballet 👯‍♀️, badminton 🏸, and basketball 🏀 + love to bake and cook 🥨
+
+I've once lived in Bloomington, Indiana, U.S 🇺🇸 and Graz, Austria 🇦🇹
+
+Reach me via [email](ellieujin@korea.ac.kr)! 👈
+
 <!--
 **ellieujin/ellieujin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
